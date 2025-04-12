@@ -1,10 +1,12 @@
-# 🔍 OpenCV MCP Server
+![logo](https://github.com/user-attachments/assets/2d4527f4-6e2a-48be-8dfe-7b40231aa212)
+
+# 🚀 OpenCV MCP Server
 
 MCP server providing powerful OpenCV computer vision capabilities for AI assistants.
 
 ![](https://badge.mcpx.dev?type=server 'MCP Server')
 
-## 🚀 Introduction
+## 🔍 Introduction
 
 OpenCV MCP Server is a Python package that provides OpenCV's image and video processing capabilities through the Model Context Protocol (MCP). This allows AI assistants and language models to access powerful computer vision tools for tasks ranging from basic image manipulation to advanced object detection and tracking.
 
